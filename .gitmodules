@@ -1,0 +1,3 @@
+[submodule "HealthInfo"]
+	path = HealthInfo
+	url = https://github.com/Echinops6718/HealthInfo.git
